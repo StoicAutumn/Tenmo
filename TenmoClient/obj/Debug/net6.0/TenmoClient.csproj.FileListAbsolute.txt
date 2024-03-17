@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\bin\Debug\net6.0\TenmoClient.exe
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\bin\Debug\net6.0\TenmoClient.deps.json
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\bin\Debug\net6.0\TenmoClient.runtimeconfig.json
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\bin\Debug\net6.0\TenmoClient.dll
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\bin\Debug\net6.0\TenmoClient.pdb
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\TenmoClient.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\TenmoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\TenmoClient.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\TenmoClient.AssemblyInfo.cs
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\TenmoClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\TenmoClient.csproj.CopyComplete
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\TenmoClient.dll
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\refint\TenmoClient.dll
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\TenmoClient.pdb
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\TenmoClient.genruntimeconfig.cache
+C:\Users\Student\source\repos\pairs\week-08-team-4\TenmoClient\obj\Debug\net6.0\ref\TenmoClient.dll

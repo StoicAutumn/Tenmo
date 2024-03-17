@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s2yjZYvSwl51atvUddDOT1fi30ig3llQ85E5HEhyPpc=",
+  "Source": "TenmoServer",
+  "BasePath": "_content/TenmoServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
